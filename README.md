@@ -1,6 +1,6 @@
 <!-- prettier-ignore -->
 <div align="center">
-  <img src="./assets/webpad-mark.svg" alt="WebPad mark" width="96" height="96" />
+  <img src="https://freedomain.kamolpop.dev/brand/webpad-mark-v2.png" alt="WebPad mark" width="96" height="96" />
 
   <h1>WebPad</h1>
   <p><strong>Your place, free on the web.</strong></p>
@@ -23,7 +23,7 @@
   </p>
 </div>
 
-WebPad gives people a memorable address under \`webpad.page\`, a clear place to manage DNS records, and a safer path to connect that address to the hosting platform they already trust.
+WebPad gives people a memorable address under `webpad.page`, a clear place to manage DNS records, and a safer path to connect that address to the hosting platform they already trust.
 
 > [!IMPORTANT]
 > WebPad manages namespace ownership and DNS records. It does not host website files, provide website hosting, issue destination certificates, or guarantee that a destination platform recognizes and serves a hostname.
@@ -34,7 +34,7 @@ WebPad is designed for students, hobbyists, and small projects that need a simpl
 
 | WebPad helps you | What that means |
 | --- | --- |
-| Choose an address | Claim a memorable namespace such as \`yourname.webpad.page\`. |
+| Choose an address | Claim a memorable namespace such as `yourname.webpad.page`. |
 | Manage DNS | Add the records your destination platform provides. |
 | Connect a destination | Point the namespace to an HTTPS-capable platform or server. |
 | Stay in control | Review lifecycle state, quota, and safe account activity in one place. |
@@ -43,7 +43,7 @@ The interface is designed to be calm and understandable on both mobile and deskt
 
 ## How it works
 
-1. **Choose a namespace.** Create an account and claim an available \`webpad.page\` address.
+1. **Choose a namespace.** Create an account and claim an available `webpad.page` address.
 2. **Copy the destination records.** Use the A, AAAA, CNAME, or TXT values provided by the platform hosting your site.
 3. **Add the records in WebPad.** Keep the relative name, value, and TTL aligned with the destination instructions.
 4. **Connect the address at your platform.** Add the full hostname to Vercel, Cloudflare Pages, GitHub Pages, or another HTTPS-capable destination.
